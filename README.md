@@ -1,3 +1,12 @@
+## Edit
+
+1. Install miniconda: https://docs.conda.io/en/latest/miniconda.html#macos-installers
+2. `conda create -n webgl`
+3. `conda activate webgl`
+4. `conda install -c conda-forge eccodes`
+5. `pip3 install eccodes`
+
+
 ## WebGL Wind — [Demo](https://mapbox.github.io/webgl-wind/demo/)
 
 A WebGL-powered visualization of wind power.
